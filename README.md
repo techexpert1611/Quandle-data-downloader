@@ -10,6 +10,17 @@ https://www.quandl.com/api/v3/datasets/{database_code}/{dataset_code}/data.{retu
 
 you can easily find database_code and dataset_code on dataset pages in quandl.
 
+<<<<<<< HEAD
 ![](image/ss.png)
 
 test auto devops
+=======
+Consider this ss here,
+
+database_code = NASDAQOMX and
+dataset_code = XQC
+
+return_format can be json or xml or csv.
+
+![](ss.png)
+>>>>>>> b52eae7b72414adf12c666a165db947b3de19861
