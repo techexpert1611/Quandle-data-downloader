@@ -10,4 +10,4 @@ https://www.quandl.com/api/v3/datasets/{database_code}/{dataset_code}/data.{retu
 
 you can easily find database_code and dataset_code on dataset pages in quandl.
 
-![](image/ss.png)
+![](ss.png)
